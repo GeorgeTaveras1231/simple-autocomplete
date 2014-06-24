@@ -1,0 +1,7 @@
+#names {
+  /*display: none;*/
+  border: 1px #ccc solid;
+  max-height: 250px;
+  width: 350px;
+  overflow: scroll;
+}
